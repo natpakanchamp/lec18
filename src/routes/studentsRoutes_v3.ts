@@ -45,7 +45,7 @@ router.get("/", async (req: Request, res: Response) => {
   }
 });
 
-// GET /api/v2/students/{studentId}
+// GET /api/v3/students/{studentId}
 router.get("/:studentId", async (req: Request, res: Response) => {
   try {
     const students = await readDataFile();
