@@ -1,7 +1,7 @@
 # Lecture 18 - RESTful API (Part 3)
 
 นายณัฐปคัลภ์ กันทะศร
-ุึ670610689
+670610689
 
 ### Content
 
